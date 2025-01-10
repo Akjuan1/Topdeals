@@ -885,8 +885,8 @@ section,
   color: var(--accent-color);
 }
 
-.hero p span{
-  color: var(--accent-color);
+.hero p span{                       
+  color: var(--accent-color);                                
 }
 
 .hero p {
